@@ -8,6 +8,7 @@ In this repository the different papers and presentations discussed during the "
 
 | Date  | Title  | Authors  | Conf.  | Year  | Category  | Paper  | Presentation | Presenter |
 | ------ |:-------------:| -----:| -----:|  -----:| :-----:|  :-----:| :-----:| :-----:|
+| 23/10/19 | 'Machine Behaviour' | Rahwan et al. | Nature Machine Intelligence | 2019 | Opinion | [Paper]() |[Notes](presentations/05_2019_Rahwan.pdf)| Robert |
 | 06/09/19 | 'New neural activity patterns emerge with long-term learning' | Oby et al. | PNAS | 2019 | Neuro | [Paper](https://www.pnas.org/content/116/30/15210) |[Notes](presentations/04_2019_Oby.pdf)| Joram |
 | 23/08/19 | 'Transferring Knowledge across Learning Processes' | Flennerhag et al. | ICLR | 2018 | Meta | [Paper](https://arxiv.org/abs/1812.01054) |[Notes](presentations/03_2018_Flennerhag.pdf)| Robert |
 | 07/08/19 | 'Task-Driven Convolutional Recurrent Models of the Visual System' | Nayebi et al. | NIPS | 2018 | RNNs | [Paper](https://arxiv.org/abs/1807.00053) |[Notes](presentations/02_2018_Nayebi.pdf)| Robert |
