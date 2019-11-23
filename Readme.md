@@ -8,6 +8,7 @@ In this repository the different papers and presentations discussed during the "
 
 | Date  | Title  | Authors  | Conf.  | Year  | Category  | Paper  | Presentation | Presenter |
 | ------ |:-------------:| -----:| -----:|  -----:| :-----:|  :-----:| :-----:| :-----:|
+| 20/11/19 | 'Task Representations in Neural Networks Trained to Perform Many Cognitive Tasks' | Yang et al. | ArXiv | 2019 | RNNs | [Paper](https://www.nature.com/articles/s41593-018-0310-2?WT.feed_name=subjects_neuroscience) |[Notes](presentations/07_2019_Yang.pdf)| Filip |
 | 06/11/19 | 'Solving Rubik's Cube with a Robotic Hand' | Akkaya et al. | ArXiv | 2019 | Robotics | [Paper](https://arxiv.org/abs/1910.07113) |[Notes](presentations/06_2019_Akkaya.pdf)| Robert |
 | 23/10/19 | 'Machine Behaviour' | Rahwan et al. | Nature Machine Intelligence | 2019 | Opinion | [Paper](https://www.nature.com/articles/s41586-019-1138-y) |[Notes](presentations/05_2019_Rahwan.pdf)| Robert |
 | 06/09/19 | 'New neural activity patterns emerge with long-term learning' | Oby et al. | PNAS | 2019 | Neuro | [Paper](https://www.pnas.org/content/116/30/15210) |[Notes](presentations/04_2019_Oby.pdf)| Joram |
