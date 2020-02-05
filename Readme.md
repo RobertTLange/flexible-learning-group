@@ -8,6 +8,7 @@ In this repository the different papers and presentations discussed during the "
 
 | Date  | Title  | Authors  | Conf.  | Year  | Category  | Paper  | Presentation | Presenter |
 | ------ |:-------------:| -----:| -----:|  -----:| :-----:|  :-----:| :-----:| :-----:|
+| 05/02/20 | 'On a Measure of Intelligence' | Chollet | ArXiv | 2019 | Intelligence | [Paper](https://arxiv.org/abs/1911.01547) |[Slides](presentations/11_2019_Chollet.pdf)| Heiner Spiess |
 | 22/01/20 | 'Deep Neuroethology of a Virtual Rodent' | Merel et al. | ICLR | 2020 | Neuro-DRL | [Paper](https://arxiv.org/abs/1911.09451) |[Slides](presentations/10_2019_Merel.pdf)| Robert Lange |
 | 08/01/20 | 'Recurrent Independent Mechanisms' | Goyal et al. | ArXiv | 2019 | RNNs + Causality | [Paper](https://arxiv.org/abs/1909.10893) |[Slides](presentations/09_2019_Goyal.pdf)| Nico Roth |
 | 03/12/19 | 'Weight Agnostic Neural Networks' | Gaier & Ha | NeuRIPS | 2019 | Inductive Biases | [Paper](https://arxiv.org/abs/1906.04358) |[Slides](presentations/08_2019_Gaier.pdf)| Adrian Sieler |
