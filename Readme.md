@@ -8,7 +8,7 @@ In this repository the different papers and presentations discussed during the "
 
 | Date  | Title  | Authors  | Conf.  | Year  | Category  | Presentation | Presenter |
 | ------ |:-------------:| -----:| -----:| :-----:|  :-----:| :-----:| :-----:|
-|19/02/20 | ['Limits and Potentials of Deep Learning in Robotics'](https://arxiv.org/abs/1804.06557) | Sünderhauf et al. | ArXiv | 2018 | Opinion | [Slides](presentations/12_2018_Sünderhauf.pdf) |
+|19/02/20 | ['Limits and Potentials of Deep Learning in Robotics'](https://arxiv.org/abs/1804.06557) | Sünderhauf et al. | ArXiv | 2018 | Opinion | [Slides](presentations/12_2018_Sünderhauf.pdf) | Aravind Battaje |
 | 05/02/20 | ['On a Measure of Intelligence'](https://arxiv.org/abs/1911.01547) | Chollet | ArXiv | 2019 | Intelligence |[Slides](presentations/11_2019_Chollet.pdf)| Heiner Spiess |
 | 22/01/20 | ['Deep Neuroethology of a Virtual Rodent'](https://arxiv.org/abs/1911.09451) | Merel et al. | ICLR | 2020 | Neuro-DRL |[Slides](presentations/10_2019_Merel.pdf)| Robert Lange |
 | 08/01/20 | ['Recurrent Independent Mechanisms'](https://arxiv.org/abs/1909.10893) | Goyal et al. | ArXiv | 2019 | RNNs + Causality |[Slides](presentations/09_2019_Goyal.pdf)| Nico Roth |
