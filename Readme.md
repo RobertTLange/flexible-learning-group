@@ -17,6 +17,6 @@ In this repository the different papers and presentations discussed during the "
 | 06/11/19 | ['Solving Rubik's Cube with a Robotic Hand'](https://arxiv.org/abs/1910.07113) | Akkaya et al. | ArXiv | 2019 | Robotics |[Slides](presentations/06_2019_Akkaya.pdf)| Robert Lange|
 | 23/10/19 | ['Machine Behaviour'](https://www.nature.com/articles/s41586-019-1138-y) | Rahwan et al. | Nature Machine Intelligence | 2019 | Opinion |[Slides](presentations/05_2019_Rahwan.pdf)| Robert Lange|
 | 06/09/19 | ['New neural activity patterns emerge with long-term learning'](https://www.pnas.org/content/116/30/15210) | Oby et al. | PNAS | 2019 | Neuro |[Slides](presentations/04_2019_Oby.pdf)| Joram Keijser |
-| 23/08/19 | ['Transferring Knowledge across Learning Processes'](https://arxiv.org/abs/1812.01054) | Flennerhag et al. | ICLR | 2018 | Meta |[Slides](presentations/03_2018_Flennerhag.pdf)| Robert Lange |
+| 23/08/19 | ['Transferring Knowledge across Learning Processes'](https://arxiv.org/abs/1812.01054) | Flennerhag et al. | ICLR | 2018 | Meta |[Slides](presentations/03_2019_Flennerhag.pdf)| Robert Lange |
 | 07/08/19 | ['Task-Driven Convolutional Recurrent Models of the Visual System'](https://arxiv.org/abs/1807.00053) | Nayebi et al. | NIPS | 2018 | RNNs |[Slides](presentations/02_2018_Nayebi.pdf)| Robert Lange |
 | 24/07/19 | ['A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms'](https://arxiv.org/abs/1901.10912) | Bengio et al. | ArXiv | 2019 | Meta |[Slides](presentations/01_2019_Bengio.pdf)| Robert Lange |
