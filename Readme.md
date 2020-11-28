@@ -8,6 +8,7 @@ In this repository the different papers and presentations discussed during the "
 
 | Date  | Title  | Authors  | Conf.  | Year  | Category  | Presentation | Presenter |
 | ------ |:-------------:| -----:| -----:| :-----:|  :-----:| :-----:| :-----:|
+|09/11/20 | ['Visual Transformers: Token-based Image Representation and Processing for Computer Vision'](https://arxiv.org/abs/2006.03677) | Wu et al. | ArXiv | 2020 | Machine Vision | [Slides](presentations/14_2020_Wu.pdf) | Robert Lange |
 |11/03/20 | ['Skill-specific changes in cortical preparatory activity during motor learning'](https://www.biorxiv.org/content/10.1101/2020.01.30.919894v1.full.pdf) | Sun et al. | BioArXiv | 2019 | Motor Learning | [Slides](presentations/13_2019_Sun.pdf) | Joram Keijser |
 |19/02/20 | ['Limits and Potentials of Deep Learning in Robotics'](https://arxiv.org/abs/1804.06557) | Sünderhauf et al. | ArXiv | 2018 | Opinion | [Slides](presentations/12_2018_Sünderhauf.pdf) | Aravind Battaje |
 | 05/02/20 | ['On a Measure of Intelligence'](https://arxiv.org/abs/1911.01547) | Chollet | ArXiv | 2019 | Intelligence |[Slides](presentations/11_2019_Chollet.pdf)| Heiner Spiess |
